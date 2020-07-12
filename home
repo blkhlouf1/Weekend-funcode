@@ -1,0 +1,12 @@
+public class Home{
+String homename;
+String adress;
+double miete;
+double size;
+Sting mieter;
+string vermieter;
+public Home(String name){
+homename=home;
+}
+public String getadress(){return adress;}
+}
